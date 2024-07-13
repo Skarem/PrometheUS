@@ -98,4 +98,4 @@ Sum_M_O = -M_S_t - M_S_e + M_F_T + M_F_A_g + M_F_B_g + M_F_A_T + M_F_B_T + M_F_a
 F_T = solve(Sum_M_O, F_T);
 
 % Solution numérique
-F_T = double(F_T)
+F_T = double(F_T) % 0.74 N
