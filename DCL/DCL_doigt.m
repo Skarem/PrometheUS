@@ -51,7 +51,7 @@ M_S_e = F_S_e * r;
 F_A_T = 0;
 
 %% Somme des forces en Y
-F_B_T = F_T + F_app + F_A_g + F_B_g;
+F_B_T = F_T + F_app + F_A_g + F_B_g; % 12.26 N
 
 %% Somme des moments de force autour du point d'origine
 
